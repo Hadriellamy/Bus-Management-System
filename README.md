@@ -1,6 +1,6 @@
 # Bus Management Application
 
-During my second year of computer engineering at university, I undertook a challenging project to complete my first-semester requirements. The project involved the development of a comprehensive bus management application using C# for a prominent transportation company.
+During my second year of computer engineering at university (2021), I undertook a challenging project to complete my first-semester requirements. The project involved the development of a comprehensive bus management application using C# for a prominent transportation company.
 
 The primary objective of this project was to gain a deep understanding of the three critical layers in software architecture: Data Layer (DL), Business Layer (BL), and Presentation Layer (PL), while purposely excluding the use of Backend (BE) technologies. By focusing on these layers individually, I aimed to enhance my proficiency in creating well-structured and scalable software solutions.
 
